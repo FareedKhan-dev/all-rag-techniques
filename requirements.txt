@@ -1,4 +1,4 @@
-fitz
+PyMuPDF
 numpy
 openai
 requests

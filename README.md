@@ -2,7 +2,7 @@
 
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-370/) [![Nebius AI](https://img.shields.io/badge/Nebius%20AI-API-brightgreen)](https://cloud.nebius.ai/services/llm-embedding) [![OpenAI](https://img.shields.io/badge/OpenAI-API-lightgrey)](https://openai.com/) [![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium)](https://medium.com/@fareedkhandev/testing-every-rag-technique-to-find-the-best-094d166af27f)
 
-本仓库采用清晰、实用的方法讲解**检索增强生成(RAG)**技术，将高级技术分解为简单易懂的实现。不同于依赖`LangChain`或`FAISS`等框架，这里的所有内容都使用常见的Python库`openai`、`numpy`、`matplotlib`等构建。
+本仓库采用清晰、实用的方法讲解**检索增强生成(RAG)** 技术，将高级技术分解为简单易懂的实现。不同于依赖`LangChain`或`FAISS`等框架，这里的所有内容都使用常见的Python库`openai`、`numpy`、`matplotlib`等构建。
 
 目标很简单：提供可读、可修改且具有教育意义的代码。通过关注基础原理，本项目帮助揭开RAG的神秘面纱，使其工作原理更易于理解。
 
